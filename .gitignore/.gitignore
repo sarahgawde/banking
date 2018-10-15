@@ -1,0 +1,5 @@
+
+blog/*.pyc
+users/*.pyc
+django_project/*.pyc
+banking/*.pyc
